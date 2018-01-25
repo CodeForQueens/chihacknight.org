@@ -1,10 +1,8 @@
-# Chi Hack Night
+# Code for Queens
 
-Website for [Chi Hack Night](http://chihacknight.org/).
+Website for [Code for Queens](http://codeforqueens.org/).
 
-**Chi Hack Night** is Chicago's weekly event to build, share & learn about civic tech.
-
-Hosted by [DataMade](https://datamade.us/) on their [static Jekyll server](https://github.com/datamade/jekyll-hook).
+**Code for Queens** is Queens's weekly event to build, share & learn about civic tech.
 
 ## Running locally
 
